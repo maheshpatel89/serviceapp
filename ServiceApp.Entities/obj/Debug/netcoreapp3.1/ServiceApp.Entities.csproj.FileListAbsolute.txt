@@ -1,0 +1,12 @@
+E:\technostride\ServiceApp\ServiceApp.Entities\bin\Debug\netcoreapp3.1\ServiceApp.Entities.deps.json
+E:\technostride\ServiceApp\ServiceApp.Entities\bin\Debug\netcoreapp3.1\ServiceApp.Entities.runtimeconfig.json
+E:\technostride\ServiceApp\ServiceApp.Entities\bin\Debug\netcoreapp3.1\ServiceApp.Entities.runtimeconfig.dev.json
+E:\technostride\ServiceApp\ServiceApp.Entities\bin\Debug\netcoreapp3.1\ServiceApp.Entities.dll
+E:\technostride\ServiceApp\ServiceApp.Entities\bin\Debug\netcoreapp3.1\ServiceApp.Entities.pdb
+E:\technostride\ServiceApp\ServiceApp.Entities\obj\Debug\netcoreapp3.1\ServiceApp.Entities.csprojAssemblyReference.cache
+E:\technostride\ServiceApp\ServiceApp.Entities\obj\Debug\netcoreapp3.1\ServiceApp.Entities.AssemblyInfoInputs.cache
+E:\technostride\ServiceApp\ServiceApp.Entities\obj\Debug\netcoreapp3.1\ServiceApp.Entities.AssemblyInfo.cs
+E:\technostride\ServiceApp\ServiceApp.Entities\obj\Debug\netcoreapp3.1\ServiceApp.Entities.csproj.CoreCompileInputs.cache
+E:\technostride\ServiceApp\ServiceApp.Entities\obj\Debug\netcoreapp3.1\ServiceApp.Entities.dll
+E:\technostride\ServiceApp\ServiceApp.Entities\obj\Debug\netcoreapp3.1\ServiceApp.Entities.pdb
+E:\technostride\ServiceApp\ServiceApp.Entities\obj\Debug\netcoreapp3.1\ServiceApp.Entities.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+E:\technostride\ServiceApp\ServiceApp.Services\bin\Release\netcoreapp3.1\ServiceApp.Services.deps.json
+E:\technostride\ServiceApp\ServiceApp.Services\bin\Release\netcoreapp3.1\ServiceApp.Services.runtimeconfig.json
+E:\technostride\ServiceApp\ServiceApp.Services\bin\Release\netcoreapp3.1\ServiceApp.Services.runtimeconfig.dev.json
+E:\technostride\ServiceApp\ServiceApp.Services\bin\Release\netcoreapp3.1\ServiceApp.Services.dll
+E:\technostride\ServiceApp\ServiceApp.Services\bin\Release\netcoreapp3.1\ServiceApp.Services.pdb
+E:\technostride\ServiceApp\ServiceApp.Services\bin\Release\netcoreapp3.1\ServiceApp.Entities.dll
+E:\technostride\ServiceApp\ServiceApp.Services\bin\Release\netcoreapp3.1\ServiceApp.Utilities.dll
+E:\technostride\ServiceApp\ServiceApp.Services\bin\Release\netcoreapp3.1\ServiceApp.Utilities.pdb
+E:\technostride\ServiceApp\ServiceApp.Services\bin\Release\netcoreapp3.1\ServiceApp.Entities.pdb
+E:\technostride\ServiceApp\ServiceApp.Services\obj\Release\netcoreapp3.1\ServiceApp.Services.csprojAssemblyReference.cache
+E:\technostride\ServiceApp\ServiceApp.Services\obj\Release\netcoreapp3.1\ServiceApp.Services.AssemblyInfoInputs.cache
+E:\technostride\ServiceApp\ServiceApp.Services\obj\Release\netcoreapp3.1\ServiceApp.Services.AssemblyInfo.cs
+E:\technostride\ServiceApp\ServiceApp.Services\obj\Release\netcoreapp3.1\ServiceApp.Services.csproj.CoreCompileInputs.cache
+E:\technostride\ServiceApp\ServiceApp.Services\obj\Release\netcoreapp3.1\ServiceApp.Services.csproj.CopyComplete
+E:\technostride\ServiceApp\ServiceApp.Services\obj\Release\netcoreapp3.1\ServiceApp.Services.dll
+E:\technostride\ServiceApp\ServiceApp.Services\obj\Release\netcoreapp3.1\ServiceApp.Services.pdb
+E:\technostride\ServiceApp\ServiceApp.Services\obj\Release\netcoreapp3.1\ServiceApp.Services.genruntimeconfig.cache
